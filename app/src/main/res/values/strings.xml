@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">iTrash</string>
+    <string name="btRecomendacion">Recomendaciones</string>
+    <string name="btHorarios">Horarios</string>
 </resources>
